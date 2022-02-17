@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PhoenixxFTW
 - 👀 I’m interested in Application Development & Client/Server Security
-- 🌱 I’m currently learning Kotlin & JavaScript
+- 🌱 I’m currently learning Kotlin
 - 📫 You can reach me at my discord, Phoenix#5518
 
 <!---
